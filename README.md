@@ -56,3 +56,7 @@ I was using the following java kubernetes api for a while, but it kind of sucked
 
 However, while the fabric8 plugin was 'easier' to read things with, and had a simplier api, I couldn't get the
 yaml deployment working for some reason.
+
+I'm pretty sure if I could understand this example it would potentially be understandable but whatever:
+
+https://github.com/fabric8io/kubernetes-client/blob/master/kubernetes-tests/src/test/java/io/fabric8/kubernetes/client/mock/LoadTest.java
